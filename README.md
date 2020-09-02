@@ -7,7 +7,7 @@ Design and Analysis of {Algorithms, Data Structures}, and {Machine Learning Mode
 
 ### Course Plan
 
-1. (week 1) complexity analysis, arrays [slides]() [video lecture]() [code]()
+1. (week 1) complexity analysis, arrays [[slides]()] [[video lecture]()] [code]()
     * big O notation
     * arrays
     * loops
